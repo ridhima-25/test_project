@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "http://schema.org/",
+    "farmer": "https://ridhima-25.github.io/test_project/crop-context.json#farmer",
+    "farmerRegistry": "https://ridhima-25.github.io/test_project/crop-context.json#farmerRegistry",
+    "farmerId": "farmer:farmerId",
+    "farmerCropDetails": "farmer:farmerCropDetails",
+    "year": "farmer:year",
+    "season": "farmer:season",
+    "cropName": "farmer:cropName",
+    "sownArea": "farmer:sownArea",
+    "sowingDate": "farmer:sowingDate",
+    "irrigationType": "farmer:irrigationType",
+    "issuanceDate": "farmer:issuanceDate",
+    "dvcType": "farmer:dvcType"
+  }
+}
