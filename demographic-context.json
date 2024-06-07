@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "http://schema.org/",
+    "farmer": "https://ridhima-25.github.io/test_project/demographic-context.json#farmer",
+    "farmerRegistry": "https://ridhima-25.github.io/test_project/demographic-context.json#farmerRegistry",
+    "farmerId": "farmer:farmerId",
+    "farmerDemoGraphicDetails": "farmer:farmerDemoGraphicDetails",
+    "farmerName": "farmer:farmerName",
+    "identifierName": "farmer:identifierName",
+    "gender": "farmer:gender",
+    "dob": "farmer:dob",
+    "residenceAddress": "farmer:residenceAddress",
+    "farmerPhoto": "farmer:farmerPhoto"    
+  }
+}
