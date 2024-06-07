@@ -6,6 +6,7 @@
     "farmerRegistry": "https://ridhima-25.github.io/test_project/crop-context.json#farmerRegistry",
     "farmerId": "farmer:farmerId",
     "farmerCropDetails": "farmer:farmerCropDetails",
+    "farmId": "farmer:farmId",
     "year": "farmer:year",
     "season": "farmer:season",
     "cropName": "farmer:cropName",
