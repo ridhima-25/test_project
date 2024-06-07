@@ -11,6 +11,7 @@
     "gender": "farmer:gender",
     "dob": "farmer:dob",
     "residenceAddress": "farmer:residenceAddress",
-    "farmerPhoto": "farmer:farmerPhoto"    
+    "farmerPhoto": "farmer:farmerPhoto",
+    "dvcType": "farmer:dvcType"
   }
 }
