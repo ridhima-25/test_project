@@ -4,6 +4,7 @@
     "schema": "http://schema.org/",
     "farmer": "https://ridhima-25.github.io/test_project/wrapper-context.json#farmer",
     "farmerRegistry": "https://ridhima-25.github.io/test_project/wrapper-context.json#farmerRegistry",
+    "wrapperId":"farmer:wrapperId",
     "farmerId": "farmer:farmerId",
     "farmerName": "farmer:farmerName",
     "identifierName": "farmer:identifierName",
