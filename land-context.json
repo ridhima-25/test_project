@@ -5,6 +5,7 @@
     "farmer": "https://ridhima-25.github.io/test_project/land-context.json#farmer",
     "farmerRegistry": "https://ridhima-25.github.io/test_project/land-context.json#farmerRegistry",
     "farmerId": "farmer:farmerId",
+    "farmerName": "farmer:farmerName",
     "farmerLandDetails": "farmer:farmerLandDetails",
     "farmId": "farmer:farmId",
     "district": "farmer:district",
