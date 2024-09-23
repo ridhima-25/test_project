@@ -1,0 +1,35 @@
+
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "http://schema.org/",
+    "farmer": "https://ridhima-25.github.io/test_project/dvc-context.json#farmer",
+    "farmerRegistry": "https://ridhima-25.github.io/test_project/dvc-context.json#farmerRegistry",
+    "farmerId": "farmer:farmerId",
+    "farmerName": "farmer:farmerName",
+    "identifierName": "farmer:identifierName",
+    "gender": "farmer:gender",
+    "dob": "farmer:dob",
+    "residenceAddress": "farmer:residenceAddress",
+    "farmerPhoto": "farmer:farmerPhoto",
+    "landDetails": "farmer:landDetails",
+    "farmId": "farmer:farmId",
+    "district": "farmer:district",
+    "subDistrict": "farmer:subDistrict",
+    "village": "farmer:village",
+    "surveyNumber": "farmer:surveyNumber",
+    "area": "farmer:area",
+    "ownerType": "farmer:ownerType",
+    "landUseClass": "farmer:landUseClass",
+    "cropDetails": "farmer:cropDetails",
+    "year": "farmer:year",
+    "season": "farmer:season",
+    "cropName": "farmer:cropName",
+    "sownArea": "farmer:sownArea",
+    "sowingDate": "farmer:sowingDate",
+    "irrigationType": "farmer:irrigationType",
+    "issuanceDate": "farmer:issuanceDate",
+    "type": "farmer:type"
+    
+  }
+}
