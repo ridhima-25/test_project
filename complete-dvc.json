@@ -29,7 +29,6 @@
     "sowingDate": "farmer:sowingDate",
     "irrigationType": "farmer:irrigationType",
     "issuanceDate": "farmer:issuanceDate",
-    "type": "farmer:type",
     "disclaimer": "farmer:disclaimer"    
   }
 }
