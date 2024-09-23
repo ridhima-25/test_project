@@ -6,8 +6,11 @@
     "farmerRegistry": "https://ridhima-25.github.io/test_project/context.json#farmerRegistry",
     "farmerId": "farmer:farmerId",
     "farmerName": "farmer:farmerName",
-    "farmerCropDetails": "farmer:farmerCropDetails",
+    "identifierName": "farmer:identifierName",
+    "dob": "farmer:dob",
+    "landDetails": "farmer:landDetails",
     "farmId": "farmer:farmId",
+    "cropDetails": "farmer:cropDetails",
     "year": "farmer:year",
     "season": "farmer:season",
     "cropName": "farmer:cropName",
@@ -15,6 +18,7 @@
     "sowingDate": "farmer:sowingDate",
     "irrigationType": "farmer:irrigationType",
     "issuanceDate": "farmer:issuanceDate",
+    "disclaimer" : "farmer:disclaimer",
     "dvcType": "farmer:dvcType"
   }
 }
