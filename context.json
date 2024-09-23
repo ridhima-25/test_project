@@ -8,6 +8,7 @@
     "farmerName": "farmer:farmerName",
     "identifierName": "farmer:identifierName",
     "dob": "farmer:dob",
+    "gender": "farmer:gender",
     "address": "farmer:address",
     "landDetails": "farmer:landDetails",
     "farmId": "farmer:farmId",
