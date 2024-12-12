@@ -19,6 +19,8 @@
     "assetData3": "farmer:assetData3",
     "assetData4": "farmer:assetData4",
     "assetData5": "farmer:assetData5",
-    "assetHash": "farmer:assetHash"
+    "assetHash": "farmer:assetHash",
+    "disclaimer": "farmer:disclaimer",
+    "issuanceDate": "farmer:issuanceDate" 
   }
 }
